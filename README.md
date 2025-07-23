@@ -1,7 +1,7 @@
 # Book Managment System.
 Book Management Project. The book management project is a Spring Boot application that provides REST APIs for managing a collection of books. The project allows users to perform CRUD (Create, Read, Update, Delete) operations on book data.
 
-Features:
+*Features:
 
 -Add new books with details like title, author, price, and ISBN.
 
@@ -12,7 +12,7 @@ Features:
 -Delete books by ID.
 
 
-Implementation:
+*Implementation:
 
 -Uses Spring Boot with REST controllers, a Book model, and a service interface for business logic.
 
